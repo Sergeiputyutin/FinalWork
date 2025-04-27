@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Home\\Desktop\\ConsoleApplication3\\",
+  "WorkspaceRootPath": "C:\\Users\\Home\\24VVV1\\7_XP\\LR8\\ConsoleApplication3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AB538A2B-39CF-4214-AC34-FA0EF825AF5D}|ConsoleApplication3.vcxproj|C:\\Users\\Home\\Desktop\\ConsoleApplication3\\ConsoleApplication3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{AB538A2B-39CF-4214-AC34-FA0EF825AF5D}|ConsoleApplication3.vcxproj|C:\\Users\\Home\\24VVV1\\7_XP\\LR8\\ConsoleApplication3\\ConsoleApplication3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{AB538A2B-39CF-4214-AC34-FA0EF825AF5D}|ConsoleApplication3.vcxproj|solutionrelative:ConsoleApplication3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ConsoleApplication3.cpp",
-              "DocumentMoniker": "C:\\Users\\Home\\Desktop\\ConsoleApplication3\\ConsoleApplication3.cpp",
+              "DocumentMoniker": "C:\\Users\\Home\\24VVV1\\7_XP\\LR8\\ConsoleApplication3\\ConsoleApplication3.cpp",
               "RelativeDocumentMoniker": "ConsoleApplication3.cpp",
-              "ToolTip": "C:\\Users\\Home\\Desktop\\ConsoleApplication3\\ConsoleApplication3.cpp",
+              "ToolTip": "C:\\Users\\Home\\24VVV1\\7_XP\\LR8\\ConsoleApplication3\\ConsoleApplication3.cpp",
               "RelativeToolTip": "ConsoleApplication3.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-27T13:04:40.819Z",
               "EditorCaption": ""

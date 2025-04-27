@@ -8,7 +8,7 @@ int main() {
     SetConsoleOutputCP(1251);
 
     char input_a[20], input_b[20], input_c[20], input_d[20], input_e[20];
-    int a, b, c, d, e, result;
+    int a1, b1, c1, d1, e1, result;
     char output[20];
 
     printf("y = a/b - c*d + e\n");
