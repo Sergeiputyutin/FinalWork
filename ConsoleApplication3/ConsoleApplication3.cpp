@@ -193,10 +193,18 @@ int main() {
 
                     end_program :
     }
+<<<<<<< HEAD
 	int M[20], i, j = -10;
     for (i = 0; i <= 10; i++) {
         M[i] += j;
         j += 1;
+=======
+    int M[20], i, j = -10;
+    for (i = 0; i <= 10; i++) {
+        M[i] += j;
+        j += 1;
+    }
+>>>>>>> 60c0bdaadee0d836a509a131378794ca73aef33f
     printf("Результат: y = %d\n", result);
     return 0;
 }
